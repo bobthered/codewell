@@ -1,5 +1,11 @@
-# Codewell
+# [challenge]
 
-[Codewell](https://codewell.cc) is a site offering free and paid challenges focusing on frontend web development.
+![challenge](https://raw.githubusercontent.com/bobthered/codewell/main/challenges/[challenge]/readme-hero-image.png)
 
-## Challenges
+---
+
+## Technologies
+
+- Sveltekit
+- Tailwind CSS
+- Github Pages
