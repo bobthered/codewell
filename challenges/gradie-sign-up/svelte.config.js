@@ -8,7 +8,7 @@ const config = {
     adapter: adapter(),
     appDir: 'internal',
     paths: {
-      base: '/codewell/challenges/gradie-sign-up'
+      base: '/codewell/challenges/gradie-sign-up/build'
     },
     // hydrate the <div id="svelte"> element in src/app.html
     target: '#svelte',
